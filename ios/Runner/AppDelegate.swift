@@ -35,4 +35,5 @@ import Flutter
       result(Int(device.batteryLevel * 100))
     }
   }
+  //battery
 }
